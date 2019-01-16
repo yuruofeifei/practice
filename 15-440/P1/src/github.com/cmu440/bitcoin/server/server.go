@@ -245,6 +245,5 @@ func main() {
 
 	// TODO: implement this!
 	go srv.readRoutine()
-	srv.mainRoutine()
-	
+	srv.mainRoutine()	
 }
